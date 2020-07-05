@@ -11,19 +11,19 @@ A low cost drone using Arduino mini, DC motors, and a mobile battery. It can be 
 
 <p align="center">
   <img src="imgs/Flight_Dynamics.png" width="760px">
-  <br><i>Figure : Showing the Flight Dynamics of the drone</i>
+  <br><i>Figure : Showing the Flight Dynamics of any drone</i>
 </p>
 
 ## Major components
 <p align="center">
   <img src="imgs/Major_components.png" width="760px">
-  <br><i>Figure : Showing the Flight Dynamics of the drone</i>
+  <br><i>Figure : Showing all the components required for constructing the drone</i>
 </p>
 
 ## Connecting Mini Arduino for Programming
 <p align="center">
   <img src="imgs/Connecting_Mini_Arduino.jpg" width="760px">
-  <br><i>Figure : Showing the Flight Dynamics of the drone</i>
+  <br><i>Figure : Showing the connection between Arduino Uno & Arduino mini for programming</i>
 </p>
 
 ## Video demo
