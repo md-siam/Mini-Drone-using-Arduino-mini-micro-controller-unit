@@ -4,11 +4,17 @@ A low cost drone using Arduino mini, DC motors, and a mobile battery. It can be 
 </p>
 
 <p align="center">
-  <img src="imgs/Flight_Dynamics.png" width="700px">
+  <img src="imgs/Flight_Dynamics.png" width="760px">
   <br><i>Figure : Showing the Flight Dynamics of the drone</i>
 </p>
 
-## Video Demo
+## Major components
+<p align="center">
+  <img src="imgs/Major_components.png" width="760px">
+  <br><i>Figure : Showing the Flight Dynamics of the drone</i>
+</p>
+
+## Video demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=B13oQvVGCp4&list=PLWdzmf_yjOGsEBxtbmLwkprN09FwD6ldS" target="popup" > >Click Here< </a>
 </p>
